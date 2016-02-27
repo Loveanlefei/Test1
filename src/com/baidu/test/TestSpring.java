@@ -23,5 +23,6 @@ public class TestSpring {
 	
 	public static void main(String[] args) {
 		TestSpring.test1();
+		System.out.println("chenggongle");
 	}
 }
